@@ -20,12 +20,10 @@ setup(
         "Intended Audience :: End Users/Desktop",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
-        "Programming Language :: Python :: 3.8",
-        "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
         "Topic :: Communications :: Email",
     ],
-    python_requires=">=3.8",
+    python_requires=">=3.10",
     install_requires=[
         "google-auth-oauthlib>=1.0.0",
         "google-auth-httplib2>=0.1.0",

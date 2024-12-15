@@ -8,7 +8,7 @@ Thank you for your interest in contributing to Gmail Domain Labeler! This docume
 2. Clone your fork:
 
 ```bash
-git clone https://github.com/yourusername/gmail-domain-labeler.git
+git clone https://github.com/Ezar101/gmail-domain-labeler.git
 cd gmail-domain-labeler
 ```
 

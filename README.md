@@ -1,7 +1,7 @@
 # Gmail Domain Labeler
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.8+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 
 Automatically organize your Gmail inbox by creating labels based on sender domains. This script analyzes your incoming emails and creates a hierarchical label structure, categorizing emails by the sender's domain name.
 
@@ -16,7 +16,7 @@ Automatically organize your Gmail inbox by creating labels based on sender domai
 
 ## 📋 Requirements
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - A Google account with Gmail
 - Gmail API enabled in Google Cloud Console
 - OAuth 2.0 credentials configured
